@@ -26,6 +26,18 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
     console.log(orangesRes.length);
 }
 
+
+// Fixed later 
+
+const countApplesAndOranges2 = (s, t, a, b, apples, oranges) => {
+    let applesCount = apples.filter(value => value + a >= s && value + a <= t).length;
+    let orangesCount = oranges.filter(value => value + b >= s && value + b <= t).length;
+
+    console.log(applesCount);
+    console.log(orangesCount);
+}
+
+
 const s = 7;
 const t = 10;
 const a = 4;
@@ -33,3 +45,4 @@ const b = 12;
 const apples = [2, 3, -4];
 const oranges = [3, -2, -4];
 countApplesAndOranges(s, t, a, b, apples, oranges);
+countApplesAndOranges2(s, t, a, b, apples, oranges);
