@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (24)</summary>
+  <summary>Easy (25)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -31,6 +31,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Angry Professor](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/angry_professor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem) 
 - [Subarray Division](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/subarray_division.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 - [Drawing Book](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/drawing_book.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
+- [Picking Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/picking_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/picking-numbers)
 </details>
 
 
