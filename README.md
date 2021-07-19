@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (21)</summary>
+  <summary>Easy (23)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -28,6 +28,8 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Cats and a Mouse](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/cat_and_mouse.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 - [The Hurdle Race](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/hurdle_race.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/the-hurdle-race/problem)
 - [Utopian Tree](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/utopian_tree.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/utopian-tree/problem)
+- [Angry Professor](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/angry_professor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/angry-professor/problem) 
+- [Subarray Division](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/subarray_division.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 </details>
 
 <!--
