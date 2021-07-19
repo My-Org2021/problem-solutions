@@ -1,4 +1,4 @@
-// 
+// https://www.hackerrank.com/challenges/time-conversion/problem
 
 
 /// The first solution I wrote.
@@ -46,24 +46,6 @@ function timeConversion(s) {
 
     return timeArr.join(":");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 var pmTime = '12:45:54PM';
 var amTime = timeConversion(pmTime);

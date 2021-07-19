@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/staircase/problem
+
 /*
 4 times turn
     0, 1, 2, 3
