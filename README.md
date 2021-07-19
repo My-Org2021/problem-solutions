@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy</summary>
+  <summary>Easy (21)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
