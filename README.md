@@ -37,7 +37,12 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Viral Advertising](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/viral_advertising.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-advertising/problem)
 </details>
 
+<details>
+  <summary>Other Challenges (1)</summary>
 
+- [First non repeating character](https://github.com/theiskaa/hackerrank-challanges/blob/main/challenges/first_non_repeating_char.js)
+
+</details>
 <!--
 - []() - [View problem in HackerRank]()
 -->
