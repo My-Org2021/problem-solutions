@@ -34,6 +34,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Picking Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/picking_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/picking-numbers)
 - [Sales by Match](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/sales_by_match.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem)
 - [Beautiful Days at the Movies](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/beautiful_days_at_the_movies.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+- [Viral Advertising](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/viral_advertising.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-advertising/problem)
 </details>
 
 
