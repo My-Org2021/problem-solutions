@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (26)</summary>
+  <summary>Easy (27)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -33,6 +33,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Drawing Book](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/drawing_book.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/drawing-book/problem)
 - [Picking Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/picking_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/picking-numbers)
 - [Sales by Match](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/sales_by_match.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem)
+- [Beautiful Days at the Movies](https://github.com/theiskaa/hackerrank-challanges/blob/main/done/beautiful_days_at_the_movies.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 </details>
 
 
