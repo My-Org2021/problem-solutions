@@ -1,4 +1,4 @@
-# Hackerrank-challanges
+# Hackerrank-challenges
 
 Solutions to the problems you come across in Hackerrank.com
 All the solutions will be writen in JavaScript or maybe sometimes in dart.
