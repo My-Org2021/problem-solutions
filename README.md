@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (28)</summary>
+  <summary>Easy (29)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -35,6 +35,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Sales by Match](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sales_by_match.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem)
 - [Beautiful Days at the Movies](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/beautiful_days_at_the_movies.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
 - [Viral Advertising](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/viral_advertising.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-advertising/problem)
+- [Circular Array Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/circular_array_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 </details>
 
 <details>
