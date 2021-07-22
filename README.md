@@ -40,9 +40,10 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 </details>
 
 <details>
-  <summary>Medium (1)</summary>
+  <summary>Medium (2)</summary>
 
 - [Forming a Magic Square](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/forming_magic_square.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/magic-square-forming/problem)
+- [Climbing the Leaderboard](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/climbing_the_leaderboard.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 
 </details>
 <details>
