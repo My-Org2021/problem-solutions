@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (30)</summary>
+  <summary>Easy (31)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -37,10 +37,11 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Viral Advertising](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/viral_advertising.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-advertising/problem)
 - [Circular Array Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/circular_array_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 - [Save the Prisoner!](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/save_the_prisoner.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
+- [Designer PDF Viewer](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/designer_pdf_viewer.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 </details>
 
 <details>
-  <summary>Medium (2)</summary>
+  <summary>Medium (3)</summary>
 
 - [Forming a Magic Square](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/forming_magic_square.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/magic-square-forming/problem)
 - [Climbing the Leaderboard](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/climbing_the_leaderboard.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
