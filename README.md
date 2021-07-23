@@ -39,6 +39,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Save the Prisoner!](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/save_the_prisoner.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 - [Designer PDF Viewer](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/designer_pdf_viewer.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Sequence Equation](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sequence_equation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/permutation-equation/problem)
+- [Jumping on the Clouds: Revisited](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/jumping_on_clouds.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
 </details>
 
 <details>
