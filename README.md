@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (32)</summary>
+  <summary>Easy (34)</summary>
   
   - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -40,6 +40,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Designer PDF Viewer](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/designer_pdf_viewer.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem)
 - [Sequence Equation](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sequence_equation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/permutation-equation/problem)
 - [Jumping on the Clouds: Revisited](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/jumping_on_clouds.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem)
+- [Find Digits](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/find_digits.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-digits/problem)
 </details>
 
 <details>
