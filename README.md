@@ -43,6 +43,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Find Digits](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/find_digits.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-digits/problem)
 - [Cut the sticks](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/cut_the_sticks.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
 - [Repeated String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/repeated_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/repeated-string/problem)
+- [Equalize the Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/equalize_the_array.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 </details>
 
 <details>
