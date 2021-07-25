@@ -1,21 +1,16 @@
-// https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem
+// https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
 
-function jumpingOnClouds(c, k) {
-    let energy = 100;
-    let i = k % c.length;
+function jumpingOnClouds(c) {
+    let result = -1;
 
-    energy -= c[i] * 2 + 1
-
-    while (i != 0) {
-        i = (i + k) % c.length
-        energy -= c[i] * 2 + 1
+    for (let i = 0; i < c.length; i++) {
+        result++
+        if (c.length - 2 > 1 && c[i + 2] === 0) i++;
     }
-    return energy
+
+    return result;
 }
 
-
-const c = [0, 0, 1, 0, 0, 1, 1, 0];
-const k = 2;
-
-const result = jumpingOnClouds(c, k);
+const clouds = [0, 1, 0, 0, 0, 1, 0];
+const result = jumpingOnClouds(clouds);
 console.log(result);
