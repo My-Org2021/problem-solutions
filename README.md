@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (38)</summary>
+  <summary>Easy (39)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -45,6 +45,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Repeated String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/repeated_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/repeated-string/problem)
 - [Equalize the Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/equalize_the_array.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/equality-in-a-array/problem)
 - [Jumping on the Clouds](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/jumping_on_clouds.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)
+- [Minimum Distances](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/min_distances.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem)
 </details>
 
 <details>
