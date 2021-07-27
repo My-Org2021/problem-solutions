@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (41)</summary>
+  <summary>Easy (42)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -48,6 +48,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Minimum Distances](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/min_distances.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-distances/problem)
 - [Sherlock and Squares](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sherlock_and_squares.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 - [Taum and B'day](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/taum_b_day.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/taum-and-bday/problem)
+- [Service Lane](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/service_lane.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/service-lane/problem)
 </details>
 
 <details>
