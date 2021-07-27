@@ -3,7 +3,7 @@
 Solutions to the problems you come across in Hackerrank.com
 All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
-## 
+#### Problem Solving
 <details>
   <summary>Easy (45)</summary>
   
@@ -69,6 +69,15 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [First non repeating character](https://github.com/theiskaa/hackerrank-challanges/blob/main/challenges/first_non_repeating_char.js)
 
 </details>
+
+#### Interview Preparation Kit 
+<details>
+  <summary>Arrays (1)</summary>
+
+- [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/arrays/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+
+</details>
+
 <!--
 - []() - [View problem in HackerRank]()
 -->
