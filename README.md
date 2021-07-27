@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 ## 
 <details>
-  <summary>Easy (42)</summary>
+  <summary>Easy (43)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -49,6 +49,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Sherlock and Squares](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sherlock_and_squares.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)
 - [Taum and B'day](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/taum_b_day.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/taum-and-bday/problem)
 - [Service Lane](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/service_lane.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/service-lane/problem)
+- [Chocolate Feast](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/chocolate_feast.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 </details>
 
 <details>
