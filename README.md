@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (45)</summary>
+  <summary>Easy (46)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -52,6 +52,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Chocolate Feast](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/chocolate_feast.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 - [Camel Case](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/camel_case.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/camelcase/problem)
 - [Halloween Sale](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/halloween_sale.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/halloween-sale/problem)
+- [HackerRank in a String!](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/hackerrank_in_string.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem)
 </details>
 
 <details>
