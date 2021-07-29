@@ -81,6 +81,13 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 </details>
 
+<details>
+  <summary>Dictionaries and Hashmaps (1)</summary>
+
+- [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
+
+</details>
+
 <!--
 - []() - [View problem in HackerRank]()
 -->
