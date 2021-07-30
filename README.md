@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (50)</summary>
+  <summary>Easy (51)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -57,6 +57,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Mars Exploration](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/mars_exploration.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/mars-exploration/problem)
 - [Gemstones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/gemstones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/gem-stones/problem)
 - [Pangrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/pangrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/pangrams/problem)
+- [Funny String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/funny_string.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/funny-string/problem)
 </details>
 
 <details>
