@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (54)</summary>
+  <summary>Easy (56)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -61,7 +61,8 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/arrays/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
 - [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
 - [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
-
+- [Cavity Map](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/cavity_map.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/cavity-map/problem)
+- [Minimum Swaps 2](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/minimum_swaps_2.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 </details>
 
 <details>
