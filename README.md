@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (51)</summary>
+  <summary>Easy (54)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -58,6 +58,10 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Gemstones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/gemstones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/gem-stones/problem)
 - [Pangrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/pangrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/pangrams/problem)
 - [Funny String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/funny_string.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/funny-string/problem)
+- [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/arrays/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+- [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
+- [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
+
 </details>
 
 <details>
@@ -85,9 +89,10 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 </details>
 
 <details>
-  <summary>Dictionaries and Hashmaps (1)</summary>
+  <summary>Dictionaries and Hashmaps (2)</summary>
 
 - [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
+- [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 
 </details>
 
