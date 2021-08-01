@@ -1,23 +1,18 @@
 // https://www.hackerrank.com/challenges/halloween-sale/problem
 
 function howManyGames(p, d, m, s) {
-    let start = s, priceOfFirstGame = p, discFromThePrevious = d, minCost = m;
+    let boughtGameCount = 0;
 
-    let result = 0;
-
-    while (start >= priceOfFirstGame) {
-        start -= priceOfFirstGame;
-        if (priceOfFirstGame - discFromThePrevious > minCost) {
-            (priceOfFirstGame -= discFromThePrevious)
-        } else {
-            (priceOfFirstGame = minCost)
-        };
-        result++;
+    while (s >= p) {
+        boughtGameCount++;
+        s -= p;
+        (m > p - d) ? p = m : p -= d;
     }
 
-    return result;
+    return boughtGameCount;
 }
 
-const p = 20, d = 3, m = 6, s = 85;
+
+const p = 1, d = 100, m = 1, s = 9777;
 const result = howManyGames(p, d, m, s);
 console.log(result);
