@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (58)</summary>
+  <summary>Easy (59)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -65,6 +65,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Minimum Swaps 2](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/minimum_swaps_2.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 - [Alternating Characters](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/alternating_characters.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem)
 - [Strong Password](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/strong_password.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strong-password/problem)
+- [Ice Cream Parlor](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/ice_cream_parlor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/icecream-parlor/problem)
 </details>
 
 <details>
