@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (59)</summary>
+  <summary>Easy (60)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -66,6 +66,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Alternating Characters](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/alternating_characters.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem)
 - [Strong Password](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/strong_password.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strong-password/problem)
 - [Ice Cream Parlor](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/ice_cream_parlor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/icecream-parlor/problem)
+- [Missing Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/missing_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/missing-numbers/problem)
 </details>
 
 <details>
