@@ -68,7 +68,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Ice Cream Parlor](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/ice_cream_parlor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/icecream-parlor/problem)
 - [Missing Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/missing_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/missing-numbers/problem)
 - [Manasa and Stones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/manasa_and_stones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
-
+- [Counting Sort 1](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/counting_sort_1.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/countingsort1/problem)
 
 </details>
 
