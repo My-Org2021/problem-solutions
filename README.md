@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (61)</summary>
+  <summary>Easy (63)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -69,6 +69,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Missing Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/missing_numbers.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/missing-numbers/problem)
 - [Manasa and Stones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/manasa_and_stones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/manasa-and-stones/problem)
 - [Counting Sort 1](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/counting_sort_1.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/countingsort1/problem)
+- [Lisa's Workbook](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/lisas_workbook.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/lisa-workbook/problem)
 
 </details>
 
