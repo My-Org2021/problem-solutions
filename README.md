@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (68)</summary>
+  <summary>Easy (69)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -74,7 +74,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Flipping bits](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/flipping_bits.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/flipping-bits/problem)
 - [Marc's Cakewalk](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/marcs_cakewalk.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)
 - [Luck Balance](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/luck_balance.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/luck-balance/problem)
-
+- [String Construction](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/string_construction.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/string-construction/problem)
 
 </details>
 
