@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 
 #### Problem Solving
 <details>
-  <summary>Easy (70)</summary>
+  <summary>Easy (71)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -76,6 +76,8 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Luck Balance](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/luck_balance.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/luck-balance/problem)
 - [String Construction](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/string_construction.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/string-construction/problem)
 - [Mark and Toys](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/mark_and_toys.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/mark-and-toys/problem)
+- [Maximizing XOR](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/maximizing_xor.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximizing-xor/problem)
+
 
 </details>
 
