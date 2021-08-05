@@ -1,11 +1,11 @@
 # Hackerrank-challenges
 
 Solutions to the problems you come across in Hackerrank.com
-All the solutions will be writen in JavaScript or maybe sometimes in dart.
+All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in Dart or Golang.
 
 #### Problem Solving
 <details>
-  <summary>Easy (74)</summary>
+  <summary>Easy (75)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -80,7 +80,7 @@ All the solutions will be writen in JavaScript or maybe sometimes in dart.
 - [Quicksort 1 - Partition](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/quicksort1.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/quicksort1/problem)
 - [Minimum Absolute Difference in an Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/minimum_absolute_difference.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)
 - [Permuting Two Arrays](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/permuting_two_arrays.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-arrays/problem)
-
+- [Counting Sort 2](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/counting_sort_2.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/countingsort2/problem)
 
 </details>
 
