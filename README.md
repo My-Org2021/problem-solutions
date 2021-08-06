@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (77)</summary>
+  <summary>Easy (78)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -83,7 +83,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Counting Sort 2](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/counting_sort_2.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/countingsort2/problem)
 - [Find the Median](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/find_the_median.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-the-median/problem)
 - [Library Fine](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/library_fine.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
-
+- [Closest Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
 
 </details>
 
