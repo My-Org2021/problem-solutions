@@ -84,6 +84,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Find the Median](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/find_the_median.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-the-median/problem)
 - [Library Fine](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/library_fine.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
 - [Closest Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
+- [Closest Numbers (Golang)](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
 
 </details>
 
