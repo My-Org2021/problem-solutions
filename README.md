@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (80)</summary>
+  <summary>Easy (81)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -87,6 +87,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Closest Numbers (Golang)](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
 - [Maximum Perimeter Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/maximum_perimeter_triangle.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
 - [Fair Rations](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/fair_rations.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/fair-rations/problem)
+- [Modified Kaprekar Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/modified_kaprekar_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
 
 </details>
 
