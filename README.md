@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (78)</summary>
+  <summary>Easy (79)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -85,7 +85,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Library Fine](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/library_fine.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/library-fine/problem)
 - [Closest Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
 - [Closest Numbers (Golang)](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/closest_numbers.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/closest-numbers/problem)
-
+- [Maximum Perimeter Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/maximum_perimeter_triangle.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-perimeter-triangle/problem)
 </details>
 
 <details>
