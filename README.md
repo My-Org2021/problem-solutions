@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (83)</summary>
+  <summary>Easy (84)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -90,6 +90,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Modified Kaprekar Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/modified_kaprekar_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
 - [Super Reduced String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/super_reduced_string.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/reduced-string/problem)
 - [Caesar Cipher](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/caesar_cipher.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)
+- [Jim and the Orders](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/jim_and_orders.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/jim-and-the-orders/problem)
 
 
 </details>
