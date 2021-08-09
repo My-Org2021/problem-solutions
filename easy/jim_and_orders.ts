@@ -1,8 +1,14 @@
 // https://www.hackerrank.com/challenges/jim-and-the-orders/problem
 
 function jimOrders(orders: number[][]): number[] {
-    let result = orders.map((v, i) => [v[0] + v[1], i + 1]).sort((a, b) => a[0] - b[0]);
-    return result.map(e => e[1]);
+    let result = [];
+
+    for (let i = 0; i < orders.length; i++) {
+        const value = orders[i][0] + orders[i][1];
+        result.push([value, i + 1]);
+    }
+
+    return result.sort((a, b) => a[0] - b[0]).map(el => el[1]);
 }
 
 const orders = [[1, 3], [2, 3], [3, 3]];
