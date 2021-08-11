@@ -58,9 +58,9 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Gemstones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/gemstones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/gem-stones/problem)
 - [Pangrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/pangrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/pangrams/problem)
 - [Funny String](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/funny_string.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/funny-string/problem)
-- [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/arrays/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
-- [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
-- [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
+- [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
+- [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
+- [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 - [Cavity Map](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/cavity_map.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/cavity-map/problem)
 - [Minimum Swaps 2](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/minimum_swaps_2.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/minimum-swaps-2/problem)
 - [Alternating Characters](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/alternating_characters.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/alternating-characters/problem)
@@ -103,34 +103,20 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>Medium (4)</summary>
+  <summary>Medium (5)</summary>
 
 - [Forming a Magic Square](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/forming_magic_square.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/magic-square-forming/problem)
 - [Climbing the Leaderboard](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/climbing_the_leaderboard.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 - [Extra Long Factorials](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/extra_long_factorials.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 - [Encryption](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/encryption.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/encryption/problem)
+- [Greedy Florist](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/greedy_florist.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/greedy-florist/problem)
+
 </details>
 
 <details>
   <summary>Other (1)</summary>
 
 - [First non repeating character](https://github.com/theiskaa/hackerrank-challanges/blob/main/challenges/first_non_repeating_char.js)
-
-</details>
-
-#### Interview Preparation Kit 
-<details>
-  <summary>Arrays (1)</summary>
-
-- [Arrays: Left Rotation](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/arrays/left_rotation.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem)
-
-</details>
-
-<details>
-  <summary>Dictionaries and Hashmaps (2)</summary>
-
-- [Two Strings](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/two_strings.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/two-strings/problem)
-- [Hash Tables: Ransom Note](https://github.com/theiskaa/hackerrank-challanges/blob/main/interview/dictionaries-and-hashmaps/ransom_note.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-ransom-note/problem)
 
 </details>
 
