@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (88)</summary>
+  <summary>Easy (89)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -95,7 +95,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Making Anagrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/making_anagrams.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/making-anagrams/problem)
 - [Priyanka and Toys](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/priyanka_and_toys.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/priyanka-and-toys/problem)
 - [Tower Breakers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/tower_breakers.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/tower-breakers-1/problem)
-
+- [Grid Challenge](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/grid_challange.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/grid-challenge/problem)
 
 </details>
 
