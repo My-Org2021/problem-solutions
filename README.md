@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (90)</summary>
+  <summary>Easy (91)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -97,7 +97,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Tower Breakers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/tower_breakers.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/tower-breakers-1/problem)
 - [Grid Challenge](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/grid_challange.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/grid-challenge/problem)
 - [A Chessboard Game](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/chessboard_game.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)
-
+- [Happ Ladybugs](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/happy_ladybugs.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
 
 
 </details>
