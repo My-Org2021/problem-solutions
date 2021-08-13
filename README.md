@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (93)</summary>
+  <summary>Easy (94)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -99,7 +99,8 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [A Chessboard Game](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/chessboard_game.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/a-chessboard-game-1/problem)
 - [Happ Ladybugs](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/happy_ladybugs.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/happy-ladybugs/problem)
 - [Sherlock and Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sherlock_and_array.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
-- [Sherlock and Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/append_and_delete.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
+- [Append And delete](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/append_and_delete.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
+- [Separate the Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/separate_the_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
 
 
 </details>
