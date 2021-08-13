@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (94)</summary>
+  <summary>Easy (95)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -101,6 +101,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Sherlock and Array](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sherlock_and_array.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
 - [Append And delete](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/append_and_delete.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/append-and-delete/problem)
 - [Separate the Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/separate_the_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
+- [Anagram](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/anagram.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/anagram/problem)
 
 
 </details>
