@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (96)</summary>
+  <summary>Easy (97)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -103,8 +103,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Separate the Numbers](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/separate_the_numbers.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/separate-the-numbers/problem)
 - [Anagram](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/anagram.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/anagram/problem)
 - [Game of Thrones](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/game_of_thrones.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/game-of-thrones/problem)
-
-
+- [Sherlock and the Beast](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/sherlock_and_the_beast.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
 
 </details>
 
