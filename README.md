@@ -108,13 +108,14 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>Medium (5)</summary>
+  <summary>Medium (6)</summary>
 
 - [Forming a Magic Square](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/forming_magic_square.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/magic-square-forming/problem)
 - [Climbing the Leaderboard](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/climbing_the_leaderboard.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 - [Extra Long Factorials](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/extra_long_factorials.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 - [Encryption](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/encryption.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/encryption/problem)
 - [Greedy Florist](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/greedy_florist.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/greedy-florist/problem)
+- [The Time in Words](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/the_time_in_words.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/the-time-in-words/problem)
 
 </details>
 
