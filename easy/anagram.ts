@@ -10,7 +10,7 @@ function anagram(s: string): number {
         if (firstPart.includes(secondPart[i])) firstPart = firstPart.replace(secondPart[i], "")
         else res++
     }
-
+    
     return res;
 }
 
