@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (99)</summary>
+  <summary>Easy (100)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -106,7 +106,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Sherlock and the Beast](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/sherlock_and_the_beats.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem)
 - [Flatland Space Stations](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/flatland_space_stations.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
 - [Weighted Uniform Strings](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/weighted_uniform_strings.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
-
+- [Strange Counter](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/strange_counter.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-code/problem)
 
 </details>
 
