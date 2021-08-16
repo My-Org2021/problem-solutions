@@ -129,6 +129,11 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 </details>
 
+<details>
+<summary> Mathematics (1) </summary>
+- [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
+
+</details>
 <!--
 - []() - [View problem in HackerRank]()
 -->
