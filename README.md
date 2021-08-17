@@ -123,18 +123,19 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>Other (1)</summary>
+  
+<summary> Mathematics (3) </summary>
 
-- [First non repeating character](https://github.com/theiskaa/hackerrank-challanges/blob/main/challenges/first_non_repeating_char.js)
+- [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
+- [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
+- [Find the Point](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/find_the_point.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-point/problem)
 
 </details>
 
 <details>
-<summary> Mathematics (3) </summary>
-- [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
-- [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem)
-- [Find the Point](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/find_the_point.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-point/problem)
+  <summary>Other (1)</summary>
 
+- [First non repeating character](https://github.com/theiskaa/hackerrank-challanges/blob/main/challenges/first_non_repeating_char.js)
 
 </details>
 <!--
