@@ -126,11 +126,12 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 <details>
   
-<summary> Mathematics (3) </summary>
+<summary> Mathematics (4) </summary>
 
 - [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
 - [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
 - [Find the Point](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/find_the_point.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-point/problem)
+- [Connecting Towns](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/connecting_towns.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/connecting-towns/problem)
 
 </details>
 
