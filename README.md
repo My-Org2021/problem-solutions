@@ -127,7 +127,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 <details>
   
-<summary> Mathematics (6) </summary>
+<summary> Mathematics (7) </summary>
 
 - [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
 - [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
@@ -135,7 +135,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Connecting Towns](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/connecting_towns.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/connecting-towns/problem)
 - [Cutting Paper Squares](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/cutting_paper_squares.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)
 - [Halloween Party](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/halloween_party.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/halloween-party/problem)
-
+- [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/minimum_height_triangle.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/lowest-triangle/problem)
 
 
 </details>
