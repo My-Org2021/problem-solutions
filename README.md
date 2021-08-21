@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (100)</summary>
+  <summary>Easy (101)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -107,6 +107,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Flatland Space Stations](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/flatland_space_stations.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/flatland-space-stations/problem)
 - [Weighted Uniform Strings](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/weighted_uniform_strings.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/weighted-uniform-string/problem)
 - [Strange Counter](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/strange_counter.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-code/problem)
+- [Sorting: Bubble Sort](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/bubble_sort.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
 
 </details>
 
