@@ -114,7 +114,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>Medium (8)</summary>
+  <summary>Medium (9)</summary>
 
 - [Forming a Magic Square](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/forming_magic_square.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/magic-square-forming/problem)
 - [Climbing the Leaderboard](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/climbing_the_leaderboard.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
@@ -124,7 +124,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [The Time in Words](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/the_time_in_words.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/the-time-in-words/problem)
 - [Non-Divisible Subset](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/non_divisible_subset.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/non-divisible-subset/problem)
 - [Sherlock and Anagrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/sherlock_and_anagrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
-
+- [Organizing Containers of Balls](https://github.com/theiskaa/hackerrank-challanges/blob/main/medium/organizing_containers_of_balls.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/organizing-containers-of-balls)
 
 </details>
 
