@@ -130,7 +130,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 <details>
   
-<summary> Mathematics (9) </summary>
+<summary> Mathematics (10) </summary>
 
 - [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
 - [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
@@ -141,6 +141,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/minimum_height_triangle.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/lowest-triangle/problem)
 - [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/best_divisor.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/best-divisor)
 - [Restaurant](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/restaurant.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/restaurant/problem)
+- [Army Game](https://github.com/theiskaa/hackerrank-challanges/blob/main/math/army_game.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/game-with-cells/problem)
 </details>
 
 <details>
