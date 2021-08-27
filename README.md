@@ -5,7 +5,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 
 #### Problem Solving
 <details>
-  <summary>Easy (102)</summary>
+  <summary>Easy (103)</summary>
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/easy/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -109,7 +109,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Strange Counter](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/strange_counter.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/strange-code/problem)
 - [Sorting: Bubble Sort](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/bubble_sort.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem)
 - [Strings: Making Anagrams](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/making_anagrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem)
-  
+- [Finbonacci](https://github.com/theiskaa/hackerrank-challenges/blob/main/easy/fibonacci.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers/problem)
 
 </details>
 
