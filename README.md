@@ -6,6 +6,23 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 #### Problem Solving
 <details>
   <summary>Hackerrank (123)</summary>
+
+<details>
+  
+<summary> Mathematics (10) </summary>
+
+- [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
+- [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
+- [Find the Point](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/find_the_point.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-point/problem)
+- [Connecting Towns](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/connecting_towns.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/connecting-towns/problem)
+- [Cutting Paper Squares](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/cutting_paper_squares.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)
+- [Halloween Party](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/halloween_party.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/halloween-party/problem)
+- [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/minimum_height_triangle.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/lowest-triangle/problem)
+- [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/best_divisor.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/best-divisor)
+- [Restaurant](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/restaurant.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/restaurant/problem)
+- [Army Game](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/army_game.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/game-with-cells/problem)
+</details>
+
   
 - [Simple Array Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/simple_array_sum.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 - [Compare The Triplets](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/compare_the_triplets.js) - [View problem in HackerRank ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
@@ -121,24 +138,12 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Sherlock and Anagrams](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/sherlock_and_anagrams.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem)
 - [Organizing Containers of Balls](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/organizing_containers_of_balls.ts) - [View problem in HackerRank](https://www.hackerrank.com/challenges/organizing-containers-of-balls)
 
-
-
-<details>
-  
-<summary> Mathematics (10) </summary>
-
-- [Maximum Draws](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/maximum_draws.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/maximum-draws/problem)   
-- [Handshake](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/handshake.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/handshake/problem) 
-- [Find the Point](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/find_the_point.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/find-point/problem)
-- [Connecting Towns](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/connecting_towns.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/connecting-towns/problem)
-- [Cutting Paper Squares](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/cutting_paper_squares.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/p1-paper-cutting/problem)
-- [Halloween Party](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/halloween_party.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/halloween-party/problem)
-- [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/minimum_height_triangle.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/lowest-triangle/problem)
-- [Minimum Height Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/best_divisor.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/best-divisor)
-- [Restaurant](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/restaurant.js) - [View problem in HackerRank](https://www.hackerrank.com/challenges/restaurant/problem)
-- [Army Game](https://github.com/theiskaa/hackerrank-challanges/blob/main/hackerrank/math/army_game.go) - [View problem in HackerRank](https://www.hackerrank.com/challenges/game-with-cells/problem)
 </details>
 
+<details>
+  <summary>LeetCode (1)</summary>
+
+- [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
 
 </details>
 
