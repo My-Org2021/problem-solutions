@@ -141,10 +141,12 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>LeetCode (1)</summary>
+  <summary>LeetCode (2)</summary>
 
-- [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
+1. [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
 
+7. [Reverse Integer](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/reverse_integer.js) - [View problem in LeetCode](https://leetcode.com/problems/reverse-integer/)
+- 
 </details>
 
 <details>
