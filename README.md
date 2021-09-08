@@ -141,7 +141,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>LeetCode (6)</summary>
+  <summary>LeetCode (7)</summary>
 
 - [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
 - [Reverse Integer](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/reverse_integer.js) - [View problem in LeetCode](https://leetcode.com/problems/reverse-integer/)
@@ -149,6 +149,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Roman to Integer](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/roman_to_int.js) - [View problem in LeetCode](https://leetcode.com/problems/roman-to-integer/)
 - [Integer to Roman](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/int_to_roman.go) - [View problem in LeetCode](https://leetcode.com/problems/integer-to-roman/)
 - [Letter combinations of phone number](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/letter_combinations_of_phone_number.go) - [View problem in LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number)
+- [Longest Common Prefix](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/longest_common_prefix.js) - [View problem in LeetCode](https://leetcode.com/problems/longest-common-prefix/submissions)
 
 </details>
 
