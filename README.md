@@ -141,7 +141,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 </details>
 
 <details>
-  <summary>LeetCode (10)</summary>
+  <summary>LeetCode (11)</summary>
 
 - [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
 - [Reverse Integer](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/reverse_integer.js) - [View problem in LeetCode](https://leetcode.com/problems/reverse-integer/)
@@ -153,6 +153,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Longest Common Prefix](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum_2.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 - [Search Insert Position](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/search_insert.go) - [View problem in LeetCode](https://leetcode.com/problems/search-insert-position)
 - [Search Insert Position](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/final_value_after_operations.go) - [View problem in LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+- [Rotate Image](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/rotate_img.go) - [View problem in LeetCode](https://leetcode.com/problems/rotate-image/)
 
 </details>
 
