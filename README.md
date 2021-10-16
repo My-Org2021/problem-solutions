@@ -141,7 +141,7 @@ All the solutions will be writen in **Go(lang)** - **JavaScript**/**TypeScript**
 </details>
 
 <details>
-  <summary>LeetCode (12)</summary>
+  <summary>LeetCode (13)</summary>
 
 - [Two Sum](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/two_sum.go) - [View problem in LeetCode](https://leetcode.com/problems/two-sum/submissions/)
 - [Reverse Integer](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/reverse_integer.js) - [View problem in LeetCode](https://leetcode.com/problems/reverse-integer/)
@@ -155,6 +155,7 @@ All the solutions will be writen in **Go(lang)** - **JavaScript**/**TypeScript**
 - [Search Insert Position](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/final_value_after_operations.go) - [View problem in LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 - [Rotate Image](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/rotate_img.go) - [View problem in LeetCode](https://leetcode.com/problems/rotate-image/)
 - [Pascal's Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/pascal_triangle.go) - [View problem in LeetCode](https://leetcode.com/problems/pascals-triangle/)
+- [Length of Last Word](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/length_of_last_word.go) - [View Problem in LeetCode](https://leetcode.com/problems/length-of-last-word)
 
 </details>
 
