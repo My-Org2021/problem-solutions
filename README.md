@@ -154,6 +154,7 @@ All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in 
 - [Search Insert Position](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/search_insert.go) - [View problem in LeetCode](https://leetcode.com/problems/search-insert-position)
 - [Search Insert Position](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/final_value_after_operations.go) - [View problem in LeetCode](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
 - [Rotate Image](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/rotate_img.go) - [View problem in LeetCode](https://leetcode.com/problems/rotate-image/)
+- [Pascal's Triangle](https://github.com/theiskaa/hackerrank-challanges/blob/main/leetcode/pascal_triangle.go) - [View problem in LeetCode](https://leetcode.com/problems/pascals-triangle/)
 
 </details>
 
