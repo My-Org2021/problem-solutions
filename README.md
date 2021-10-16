@@ -1,7 +1,7 @@
 # Hackerrank-challenges
 
-Solutions to the problems you come across in [HackerRank](https://www.hackerrank.com) and [LeetCode](https://leetcode.com) <br>
-All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in Dart or Golang.
+Solutions to the problems you come across in **[HackerRank](https://www.hackerrank.com)** and **[LeetCode](https://leetcode.com)** <br>
+All the solutions will be writen in **Go(lang)** - **JavaScript**/**TypeScript** or maybe sometimes in **Dart**.
 
 #### Problem Solving
 <details>
