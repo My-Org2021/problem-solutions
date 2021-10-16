@@ -1,6 +1,6 @@
 # Hackerrank-challenges
 
-Solutions to the problems you come across in Hackerrank.com
+Solutions to the problems you come across in [HackerRank](https://www.hackerrank.com) and [LeetCode](https://leetcode.com) <br>
 All the solutions will be writen in JavaScript/TypeScript or maybe sometimes in Dart or Golang.
 
 #### Problem Solving
